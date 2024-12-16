@@ -11,7 +11,7 @@
 <a href="https://twitter.com/KasarLabs">
 <img src="https://img.shields.io/twitter/follow/KasarLabs?style=social"/>
 </a>
-<a href="https://github.com/kasarlabs/bitcoin-da">
+<a href="https://github.com/KasarLabs/bitcoin-da/stargazers">
 <img src="https://img.shields.io/github/stars/kasarlabs/bitcoin-da?style=social"/>
 </a>
 </div>
